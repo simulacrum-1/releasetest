@@ -1,0 +1,15 @@
+{
+    "name": "Release Test",
+    "title": "Release Test",
+    "description": "test repo to test releases",
+    "author": "Simulacrum",
+    "version": "0.1.4",
+    "minimumCoreVersion": "0.7.0",
+    "compatibleCoreVersion" : "0.7.9",
+    "scripts": [
+      "init.js"
+    ],
+    "url": "https://github.com/simulacrum-1/releasetest",
+    "manifest": "",
+    "download": ""
+  }
